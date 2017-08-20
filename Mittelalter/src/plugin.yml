@@ -1,0 +1,8 @@
+name: MittelaterJobs
+version: 1.0
+author: FortusHD, Tymmie
+main: de.fortushd.mittelalter.main.Main
+
+commands:
+     job:
+     quit:
